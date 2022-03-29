@@ -6,7 +6,7 @@ Paper:
 
 A. Fontan, G. Shi, X. Hu and C. Altafini, "Interval consensus: A novel class of constrained consensus problems for multiagent networks," 2017 IEEE 56th Annual Conference on Decision and Control (CDC), 2017, pp. 4155-4160, doi: 10.1109/CDC.2017.8264270.
 
-https://ieeexplore.ieee.org/document/8264270/citations?tabFilter=papers#citations
+https://ieeexplore.ieee.org/document/8264270
 
 ## interval consensus (stable) (deterministic and random netowrks)
 <img src="https://raw.githubusercontent.com/ChengruiZhang/Interval-consensus/main/img/deterministic_-0.5_0.2.png" alt="deterministic" width="400px"/>
